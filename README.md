@@ -7,10 +7,6 @@ Hệ thống backend hoàn chỉnh cho ứng dụng giao đồ ăn trực tuyế
 - [Tổng quan](#tổng-quan)
 - [Tính năng chính](#tính-năng-chính)
 - [Công nghệ sử dụng](#công-nghệ-sử-dụng)
-- [Cài đặt](#cài-đặt)
-- [Cấu hình](#cấu-hình)
-- [API Documentation](#api-documentation)
-- [Cấu trúc dự án](#cấu-trúc-dự-án)
 - [Đóng góp](#đóng-góp)
 
 ## 🎯 Tổng quan
@@ -53,21 +49,16 @@ Food Delivery Backend là một hệ thống backend mạnh mẽ được thiế
 
 ### Database
 - **MySQL**: Cơ sở dữ liệu chính
-- **H2 Database**: Database in-memory cho testing
 
 ### Tools & Libraries
 - **Maven**: Quản lý dependencies
 - **JWT**: JSON Web Tokens cho authentication
 - **Hibernate**: ORM implementation
-- **Jackson**: JSON processing
-- **Lombok**: Giảm boilerplate code
 
 ### Development Tools
 - **IntelliJ IDEA**: IDE chính
 - **Postman**: Testing API
 - **Git**: Version control
-
-
 
 ## 📝 License
 
