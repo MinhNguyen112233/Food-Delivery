@@ -18,7 +18,7 @@ Food Delivery Backend là một hệ thống backend mạnh mẽ được thiế
 
 
 Hệ thống được thiết kế theo mô hình 3-tier architecture với các tầng riêng biệt:
-- **Presentation Layer**: Mobile Devices (Android/iOS)
+- **Presentation Layer**: Mobile Devices (Android)
 - **Application Layer**: Application Server (Spring Boot)  
 - **Data Layer**: Database Server (MySQL)
 
