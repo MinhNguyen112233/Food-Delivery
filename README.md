@@ -1,17 +1,29 @@
 # 🍕 Food Delivery Backend
-
 Hệ thống backend hoàn chỉnh cho ứng dụng giao đồ ăn trực tuyến, được xây dựng bằng Java Spring Boot với các tính năng quản lý nhà hàng, đặt hàng và giao hàng.
 
 ## 📋 Mục lục
-
 - [Tổng quan](#tổng-quan)
+- [Kiến trúc hệ thống](#kiến-trúc-hệ-thống)
 - [Tính năng chính](#tính-năng-chính)
 - [Công nghệ sử dụng](#công-nghệ-sử-dụng)
 - [Đóng góp](#đóng-góp)
 
 ## 🎯 Tổng quan
-
 Food Delivery Backend là một hệ thống backend mạnh mẽ được thiết kế để hỗ trợ các ứng dụng giao đồ ăn trực tuyến. Dự án cung cấp các API RESTful hoàn chỉnh để quản lý nhà hàng, thực đơn, đơn hàng, và người dùng với tính bảo mật cao.
+
+## 🏗️ Kiến trúc hệ thống
+
+### 📊 Kiến trúc phần mềm
+![image](https://github.com/user-attachments/assets/d48bd596-36b0-48f7-92f8-945cad30b91a)
+
+
+Hệ thống được thiết kế theo mô hình 3-tier architecture với các tầng riêng biệt:
+- **Presentation Layer**: Mobile Devices (Android/iOS)
+- **Application Layer**: Application Server (Spring Boot)  
+- **Data Layer**: Database Server (MySQL)
+
+### 🔧 Kiến trúc chức năng
+*Đang cập nhật...*
 
 ## ✨ Tính năng chính
 
@@ -61,15 +73,12 @@ Food Delivery Backend là một hệ thống backend mạnh mẽ được thiế
 - **Git**: Version control
 
 ## 📝 License
-
 Dự án này được phân phối dưới giấy phép MIT. Xem file `LICENSE` để biết thêm chi tiết.
 
 ## 👨‍💻 Tác giả
-
 - **Minh Nguyen** - *Initial work* - [MinhNguyen112233](https://github.com/MinhNguyen112233)
 
 ## 📞 Liên hệ
-
 Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ:
 - Email: minhcoi3010@gmail.com
 
