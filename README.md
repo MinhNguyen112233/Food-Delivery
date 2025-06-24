@@ -23,7 +23,8 @@ Hệ thống được thiết kế theo mô hình 3-tier architecture với các
 - **Data Layer**: Database Server (MySQL)
 
 ### 🔧 Kiến trúc chức năng
-![image](https://github.com/user-attachments/assets/bb1956cf-7d87-49f2-878d-164785d0710a)
+![image](https://github.com/user-attachments/assets/57e90ecb-0267-4386-aade-d5480804bdfe)
+
 
 ### 🔧 Usecase tổng quát
 ![image](https://github.com/user-attachments/assets/d094cbc0-8163-4c8e-8590-1f9de16fb304)
